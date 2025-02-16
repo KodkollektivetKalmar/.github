@@ -21,9 +21,12 @@ Need a website? We've got you covered! When you work with us, you're not just ge
 
 ## Active Projects
 
-[Cateum website](https://github.com/KodkollektivetKalmar/cateum)
+[Cateum website](https://github.com/KodkollektivetKalmar/cateum) 
+<br>
 [Dödsbotömning Kalmar website](https://github.com/KodkollektivetKalmar/dodsbotomningkalmar.se)
+<br>
 [SPIIK website](https://github.com/KodkollektivetKalmar/spiik.com)
+<br>
 [SPIIK game](https://github.com/KodkollektivetKalmar/SPIIKSPEL)
 
 <br>
