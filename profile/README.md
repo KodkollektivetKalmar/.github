@@ -22,11 +22,17 @@ Need a website? We've got you covered! When you work with us, you're not just ge
 ## Current Board 2025-2026
 
 Chair - Samuel von Zweigbergk
+<br>
 Vice Chair - Jonathan Frey
+<br>
 SSUA Coordinator - Mohamed Hussein
+<br>
 Treasurer - Noah Cluér
+<br>
 Secretary - Emma Nilsson
+<br>
 Information Manager - 
+<br>
 
 Active Members:
 
