@@ -21,6 +21,8 @@ Need a website? We've got you covered! When you work with us, you're not just ge
 
 ## Active Projects
 
+Project link might not be viewable for people outside of the organization for security and privacy reasons.
+
 [Cateum website](https://github.com/KodkollektivetKalmar/cateum) 
 <br>
 [Dödsbotömning Kalmar website](https://github.com/KodkollektivetKalmar/dodsbotomningkalmar.se)
