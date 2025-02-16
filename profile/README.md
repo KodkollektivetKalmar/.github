@@ -60,7 +60,6 @@ If you're a student at Linnaeus University in Kalmar who's interested in tech, c
 
 <p>
 <a target="_blank" href="https://www.linkedin.com/company/kodkollektivet-kalmar/about/">  <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  /></a>
-<a target="_blank" href="https://www.instagram.com/kodkollektivetkalmar/" style="display: inline-block;">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"  /></a>
-<a target="_blank" href="mailto:kodkollektivet@spiik.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  /></a>
+<a target="_blank" href="https://www.instagram.com/kodkollektivetkalmar/">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"  /></a>
+<a target="_blank" href="mailto:kodkollektivet@spiik.com">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  /></a>
 </p>
