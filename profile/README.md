@@ -19,6 +19,15 @@ Need a website? We've got you covered! When you work with us, you're not just ge
 
 <br>
 
+## Active Projects
+
+[Cateum website](https://github.com/KodkollektivetKalmar/cateum)
+[Dödsbotömning Kalmar website](https://github.com/KodkollektivetKalmar/dodsbotomningkalmar.se)
+[SPIIK website](https://github.com/KodkollektivetKalmar/spiik.com)
+[SPIIK game](https://github.com/KodkollektivetKalmar/SPIIKSPEL)
+
+<br>
+
 ## Current Board 2025-2026
 
 Chair - Samuel von Zweigbergk
