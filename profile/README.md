@@ -35,20 +35,20 @@ Project links might not be viewable for people outside of the organization for s
 
 ## Current Board 2025-2026
 
-Chair - Samuel von Zweigbergk
+**Chair** - Samuel von Zweigbergk
 <br>
-Vice Chair - Jonathan Frey
+**Vice Chair** - Jonathan Frey
 <br>
-SSUA Coordinator - Mohamed Hussein
+**SSUA Coordinator** - Mohamed Hussein
 <br>
-Treasurer - Noah Cluér
+**Treasurer** - Noah Cluér
 <br>
-Secretary - Emma Nilsson
+**Secretary** - Emma Nilsson
 <br>
-Information Manager - 
+**Information Manager** - 
 <br>
 
-Active Members:
+**Active Members**:
 
 <br>
 
