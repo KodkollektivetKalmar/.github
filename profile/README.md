@@ -1,5 +1,5 @@
 # Welcome to Kodkollektivet i Kalmar! 🚀
-We're a non-profit student organization founded by students at Linnaeus University in Kalmar. Our mission? Creating an awesome community for coders and developers where everyone can learn and grow together.
+We're a committee (branch) of the student organization SPIIK, founded by students at Linnaeus University in Kalmar. Our mission? Creating an awesome community for coders and developers where everyone can learn and grow together.
 
 <br>
 
